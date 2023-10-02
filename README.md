@@ -1,5 +1,5 @@
 # Документация:
-1. [План тестирования]()
+1. [План тестирования](https://github.com/TrollFrosT/Diploma-QA-51/blob/main/documentation/plan.mdhttps://github.com/TrollFrosT/Diploma-QA-51/blob/main/documentation/plan.md)
 # Задача:
 Автоматизировать позитивные и негативные сценарии покупки тура в комплексном сервисе, взаимодействующем с СУБД и API Банка.
 ![image](https://raw.githubusercontent.com/netology-code/qa-diploma/master/pic/service.png)
